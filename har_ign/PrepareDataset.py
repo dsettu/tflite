@@ -131,7 +131,7 @@ class DataHelper():
 			dataFilePath = 'WISDM_ar_v1.1_raw.txt'
 			# read all the data in csv 'WISDM_ar_v1.1_raw.txt' into a dataframe called dataset
 			columns = ['User', 'Activity_Label', 'Arrival_Time', 'x', 'y', 'z'] # headers for the columns
-			dataset = pd.read_csv("/content/tflite/har_ign/datasets/WISDM_ar_v1.1/WISDM_ar_v1.1_raw.txt", header=None, names=columns )
+			dataset = pd.read_csv("/content/tflite/har_ign/dataset/WISDM_ar_v1.1/WISDM_ar_v1.1_raw.txt", header=None, names=columns )
 
 			# removing the ; at the end of each line and casting the last variable to datatype float from string
 			dataset['z'] = [float(str(char).replace(";", "")) for char in dataset['z']]
