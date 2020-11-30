@@ -3,38 +3,41 @@
 
 See notebook for ducumentation!
 
-Script 1
-=========
+##Script 1: Processing data and Feature Extraction
+
 
 <table class="tfo-notebook-buttons" align="left">
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/01_speech-commands-mfcc-extraction.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Google Colaboratory</a>
+    <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/01_speech_commands_mfcc_extraction.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Google Colaboratory</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/dsettu/tflite/blob/main/kws/01_speech-commands-mfcc-extraction.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/01_speech_commands_mfcc_extraction.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
   </td>
 </table>
 
 
-Script 2
-========
+
+## Script 2: Creating and Training network 
+
 <table class="tfo-notebook-buttons" align="left">
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/02_speech-commands-mfcc-classifier.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Google Colaboratory</a>
+    <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/02_speech_commands_mfcc_classifier.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Google Colaboratory</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/dsettu/tflite/blob/main/kws/02_speech-commands-mfcc-classifier.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/02_speech_commands_mfcc_classifier.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
   </td>
 </table>
 
 
-Script 3
+
+## Script 3: Converting to TensorFlow Lite
+
 <table class="tfo-notebook-buttons" align="left">
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/03-tflite-model-converter.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Google Colaboratory</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/dsettu/tflite/blob/main/kws/03-tflite-model-converter.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/03-tflite-model-converter.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
   </td>
 </table>
 
