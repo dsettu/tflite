@@ -4,8 +4,6 @@
 See notebook for ducumentation!
 
 ## Script 1: Processing data and Feature Extraction
-
-<p>
 <table class="tfo-notebook-buttons" align="left">
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/01_speech_commands_mfcc_extraction.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Google Colaboratory</a>
@@ -14,11 +12,10 @@ See notebook for ducumentation!
     <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/01_speech_commands_mfcc_extraction.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
   </td>
 </table>
-<p>
+<br>   
 
-## Script 2: Creating and Training network 
-
-<p>
+##  
+## Script 2: Creating and Training network
 <table class="tfo-notebook-buttons" align="left">
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/02_speech_commands_mfcc_classifier.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Google Colaboratory</a>
@@ -27,11 +24,10 @@ See notebook for ducumentation!
     <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/02_speech_commands_mfcc_classifier.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
   </td>
 </table>
-<p>
+<br/>   
 
+##  
 ## Script 3: Converting to TensorFlow Lite
-
-<p>
 <table class="tfo-notebook-buttons" align="left">
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/03-tflite-model-converter.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Google Colaboratory</a>
@@ -40,7 +36,7 @@ See notebook for ducumentation!
     <a target="_blank" href="https://colab.research.google.com/github/dsettu/tflite/blob/main/kws/03-tflite-model-converter.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
   </td>
 </table>
-<p>
+
 
 TensorFlow Lite Speech Recognition Demo
 ========
